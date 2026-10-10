@@ -1,7 +1,7 @@
 {
     ["windows-x64-vc-03e2990032db4ea08102d17ff8a57da7"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/magic_enum_0/magic_enum-03e2990032db4ea08102d17ff8a57da7.7z",
-        sha256 = "557311cf68bea7366c992d95303af188b52918be6e5b914b1a4393e97e987168",
+        sha256 = "6513466f16583f68a8a3611aab1dca66d32b6db6e808644917d5a81f376dfc69",
     },
 }
