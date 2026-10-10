@@ -7,6 +7,6 @@
     ["windows-x64-vc14.51.36231-eb3bd4602e864f98b2d7077a22cca552"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_preloader_0/mifcahce_preloader-v1.16.2-windows-x64-14.51.36231-eb3bd4602e864f98b2d7077a22cca552.7z",
-        sha256 = "5f6180a1c4bae86fa4a952aa83387da4bcf2fc693a4df8c7fc6fd8077a5e768a",
+        sha256 = "415cb2f044878aaf473f1af4182eddef44554c2b689e247a87381305d8feb74e",
     },
 }

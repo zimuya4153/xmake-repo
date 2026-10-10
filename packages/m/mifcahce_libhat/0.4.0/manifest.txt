@@ -7,6 +7,6 @@
     ["windows-x64-vc14.51.36231-c50fc038e66740e58945ea5327f5be6a"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_libhat_0/mifcahce_libhat-0.4.0-windows-x64-14.51.36231-c50fc038e66740e58945ea5327f5be6a.7z",
-        sha256 = "91eec899c50aa8f776b458931788d3fe91c08db112384f25bed49a05cf18a820",
+        sha256 = "cebfa4cdfeccf6fb6342b21bf61819abbc8a0355aa3715a137310cd5b5dcdfe8",
     },
 }

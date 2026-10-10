@@ -4,4 +4,9 @@
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_fmt_0/mifcahce_fmt-11.2.0-windows-x64-14.51.36231-df51e1a2e20b4137a9912f841398f0d3.7z",
         sha256 = "b80c9f5c449616bdc1fc30d5e961ffe3186aaa0eee5ad660517a3e4f4f09f96d",
     },
+    ["windows-x64-vc14.51.36231-ee1902dd7cff4195a287949f80dbce70"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_fmt_0/mifcahce_fmt-11.2.0-windows-x64-14.51.36231-ee1902dd7cff4195a287949f80dbce70.7z",
+        sha256 = "7cfa210a2a757f392602204d2866793cbafb1757fc216e3c2863ca9482993719",
+    },
 }

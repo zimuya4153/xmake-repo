@@ -2,7 +2,7 @@
     ["windows-x64-vc14.51.36231-18615f0387cd4e2ab2e9ea9965afc784"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_glm_0/mifcahce_glm-1.0.1-windows-x64-14.51.36231-18615f0387cd4e2ab2e9ea9965afc784.7z",
-        sha256 = "3ccd291a1b4c1b2be19d62e7fed6a4e3360c23c4692ff8494ec384dba1de468e",
+        sha256 = "6abd61794209f3803758b37a63f43ca48d7a496235ff43ca36557f20fa4c65f3",
     },
     ["windows-x64-vc14.51.36231-b35502c78b9847ab89a7994a4f750c71"] = {
         toolset = "14.51.36231",
