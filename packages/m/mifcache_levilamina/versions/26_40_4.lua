@@ -1,0 +1,59 @@
+local deps_common = {
+    "mifcache_entt v3.15.0",
+    "mifcache_expected-lite v0.8.0",
+    "mifcache_fmt 11.2.0",
+    "mifcache_gsl v4.2.0",
+    "mifcache_glm 1.0.1",
+    "mifcache_leveldb 1.23",
+    "mifcache_magic_enum v0.9.7",
+    "mifcache_nlohmann_json v3.12.0",
+    "mifcache_rapidjson 2025.02.05",
+    "mifcache_type_safe v0.2.4",
+    "mifcache_pcg_cpp v1.0.0",
+    "mifcache_pfr 2.1.1",
+    "mifcache_symbolprovider v1.3.0",
+    "mifcache_parallel-hashmap v1.3.12",
+    "mifcache_concurrentqueue v1.0.4",
+    "mifcache_stb 2025.03.14"
+}
+local deps_server = {
+    "mifcache_bedrockdata v26.40.8-server.4"
+}
+local deps_client = {
+    "mifcache_bedrockdata v26.40.5-client.4"
+}
+
+function load(package)
+    for _, dep in ipairs(deps_common) do
+        package:add("deps", dep)
+    end
+    if package:config("target_type") == "server" then
+        for _, dep in ipairs(deps_server) do
+            package:add("deps", dep)
+        end
+    else
+        for _, dep in ipairs(deps_client) do
+            package:add("deps", dep)
+        end
+    end
+end
+
+-- BuildCache: extra dependency closure (generated, do not edit)
+local _buildcache_extra = {
+    "mifcache_cpr 1.11.1",
+    "mifcache_demangler v17.0.7",
+    "mifcache_libhat 0.4.0",
+    "mifcache_mimalloc v3.5.0",
+    "mifcache_preloader v1.16.2",
+    "mifcache_symbolprovider v1.3.0",
+    "mifcache_trampoline 2024.11.7",
+}
+do
+    local _buildcache_original_load = load
+    function load(package)
+        _buildcache_original_load(package)
+        for _, dep in ipairs(_buildcache_extra) do
+            package:add("deps", dep)
+        end
+    end
+end
