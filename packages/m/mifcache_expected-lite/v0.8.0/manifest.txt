@@ -1,6 +1,6 @@
 {
     ["windows-x64-vc-36ca3aab48a04473a0b2d34e01875b34"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/expected-lite_0/expected-lite-36ca3aab48a04473a0b2d34e01875b34.7z",
         sha256 = "c85cc1af0de7e9a758fdca1e0e4b5994ead5e4c88a869eb35eae7e9a70a86a8d",
     },
