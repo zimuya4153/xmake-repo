@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc14.51.36231-5add428b704648039c039d4d74bed865"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_stb_0/mifcahce_stb-2025.03.14-windows-x64-14.51.36231-5add428b704648039c039d4d74bed865.tar.zst",
+        sha256 = "e11f1f25601bf6ebff745774d2f3301a1356649dd2c632dc6bffd2432c63e173",
+    },
+}

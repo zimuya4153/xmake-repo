@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc14.51.36231-df51e1a2e20b4137a9912f841398f0d3"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_fmt_0/mifcahce_fmt-11.2.0-windows-x64-14.51.36231-df51e1a2e20b4137a9912f841398f0d3.tar.zst",
+        sha256 = "981d2f5974bb276d7566911398904661157a33fdc71642bb964f2ef40a8560d5",
+    },
+}

@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc14.51.36231-9731305ba7704f5982e5b034fbd5e46c"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_symbolprovider_0/mifcahce_symbolprovider-v1.3.0-windows-x64-14.51.36231-9731305ba7704f5982e5b034fbd5e46c.tar.zst",
+        sha256 = "c7f6562f3778de29b53c807a13ad957c5797f86d3d12b0c9352f6f9c3f4c4462",
+    },
+}

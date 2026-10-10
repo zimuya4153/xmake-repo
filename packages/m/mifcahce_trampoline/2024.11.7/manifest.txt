@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc14.51.36231-ffbe8ea734a749ecb026f1d6e5160632"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_trampoline_0/mifcahce_trampoline-2024.11.7-windows-x64-14.51.36231-ffbe8ea734a749ecb026f1d6e5160632.tar.zst",
+        sha256 = "14af4421edd77381a2a314b1f425122090e37dc96e75ddd7227bbc6a45130be8",
+    },
+}

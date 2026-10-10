@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc14.51.36231-721190f8fea544feb05fd065afa31ffb"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_mimalloc_0/mifcahce_mimalloc-v3.5.0-windows-x64-14.51.36231-721190f8fea544feb05fd065afa31ffb.tar.zst",
+        sha256 = "7977aada45b7ac07d97afd01a7a67da63519d9afb3aa59fa87f819f453d7b959",
+    },
+}

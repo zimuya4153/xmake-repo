@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc14.51.36231-47e59e56afbe44f79ec7388e60e8ab6e"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_leveldb_0/mifcahce_leveldb-1.23-windows-x64-14.51.36231-47e59e56afbe44f79ec7388e60e8ab6e.tar.zst",
+        sha256 = "40aac899c27611a1c259a22817e0a9572b99fc70c65cc21e6b55f878c825746d",
+    },
+}
