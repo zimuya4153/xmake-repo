@@ -1,7 +1,7 @@
 {
     ["windows-x64-vc14.51.36231-0d58f676872d486790799bfc6f016197"] = {
         toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_entt_0/mifcahce_entt-v4.0.0-windows-x64-14.51.36231-0d58f676872d486790799bfc6f016197.tar.zst",
-        sha256 = "7137dc623d4cedad14004b799e059bc704b9ad2ffebba041afbc8017a5abcc1d",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_entt_0/mifcahce_entt-v4.0.0-windows-x64-14.51.36231-0d58f676872d486790799bfc6f016197.7z",
+        sha256 = "f59fa334f2845d5ebc984333890db1ab05ab4a4180b2962854b3fb3d7566db64",
     },
 }

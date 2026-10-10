@@ -1,7 +1,7 @@
 {
     ["windows-x64-vc14.51.36231-5852f339501b4d989496547ea53996ac"] = {
         toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_pfr_0/mifcahce_pfr-2.1.1-windows-x64-14.51.36231-5852f339501b4d989496547ea53996ac.tar.zst",
-        sha256 = "be477c4f92a680e86cff6adfa7d947b864bcb08c79d9498e44a3929fc50ecaac",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_pfr_0/mifcahce_pfr-2.1.1-windows-x64-14.51.36231-5852f339501b4d989496547ea53996ac.7z",
+        sha256 = "6512013bcfcd2e11d25055eb7405e631339aa9285f2799cb8a85e2d146d6ccaf",
     },
 }

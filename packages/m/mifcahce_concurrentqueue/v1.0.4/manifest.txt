@@ -1,7 +1,7 @@
 {
     ["windows-x64-vc14.51.36231-597699490f7c43de98f4ebd5386a2299"] = {
         toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_concurrentqueue_0/mifcahce_concurrentqueue-v1.0.4-windows-x64-14.51.36231-597699490f7c43de98f4ebd5386a2299.tar.zst",
-        sha256 = "40fc3c186f743a7cd31d5376cd0765f095a0f0b7fb63b20e94e57f535e82c350",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_concurrentqueue_0/mifcahce_concurrentqueue-v1.0.4-windows-x64-14.51.36231-597699490f7c43de98f4ebd5386a2299.7z",
+        sha256 = "19618d41cd8fa7094cb0260f7ef6d87aa8c62343052243b54ef7ebefd5ddbab4",
     },
 }

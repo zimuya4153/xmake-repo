@@ -1,7 +1,7 @@
 {
     ["windows-x64-vc14.51.36231-ab8414047c424750bdc9d7a0ff7afdde"] = {
         toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_nlohmann_json_0/mifcahce_nlohmann_json-v3.12.0-windows-x64-14.51.36231-ab8414047c424750bdc9d7a0ff7afdde.tar.zst",
-        sha256 = "f33cb8dc79d5282d79c49a2cff6ba0d93c0b7fa8f25f7ffc3320aea616604929",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_nlohmann_json_0/mifcahce_nlohmann_json-v3.12.0-windows-x64-14.51.36231-ab8414047c424750bdc9d7a0ff7afdde.7z",
+        sha256 = "1352c77ea1ae920de0133d9e8ac89b156afdfbded974e906a8b73f84e8b0a3eb",
     },
 }
