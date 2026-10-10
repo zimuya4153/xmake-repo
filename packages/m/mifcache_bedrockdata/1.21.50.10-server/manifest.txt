@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-dafd67ad673340fa8a2def9ef0d2ecb0"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bedrockdata_0/bedrockdata-dafd67ad673340fa8a2def9ef0d2ecb0.7z",
+        sha256 = "9b47f4e1c99546b4f00ef28fddcd2c5be321244361b64ff119a1fd39c59b7b97",
+    },
+}

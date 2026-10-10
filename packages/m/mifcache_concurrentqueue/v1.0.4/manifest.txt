@@ -1,17 +1,17 @@
 {
     ["windows-x64-vc-0cd923cdfb6a4256954a994422b17de9"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/concurrentqueue_0/concurrentqueue-0cd923cdfb6a4256954a994422b17de9.7z",
-        sha256 = "8ece3ee6ab3cf4110fdce6d441d7ceb8be915600711f1d717024c85550229f97",
+        sha256 = "5b2f0022df98ee39a0e85ad73a8ab6722364006572116decd5ec0ee800166a43",
     },
     ["windows-x64-vc-597699490f7c43de98f4ebd5386a2299"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/concurrentqueue_0/concurrentqueue-0cd923cdfb6a4256954a994422b17de9.7z",
-        sha256 = "8ece3ee6ab3cf4110fdce6d441d7ceb8be915600711f1d717024c85550229f97",
+        sha256 = "5b2f0022df98ee39a0e85ad73a8ab6722364006572116decd5ec0ee800166a43",
     },
     ["windows-x64-vc-e90a4a6221f94c9f92cdc45390e08c32"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/concurrentqueue_0/concurrentqueue-0cd923cdfb6a4256954a994422b17de9.7z",
-        sha256 = "8ece3ee6ab3cf4110fdce6d441d7ceb8be915600711f1d717024c85550229f97",
+        sha256 = "5b2f0022df98ee39a0e85ad73a8ab6722364006572116decd5ec0ee800166a43",
     },
 }

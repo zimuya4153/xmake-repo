@@ -2,6 +2,6 @@
     ["windows-x64-vc-3822e64c6ba14bb99ba35d14302954bf"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/entt_0/entt-3822e64c6ba14bb99ba35d14302954bf.7z",
-        sha256 = "d058552ba829de0d628220e5ea0db1df6d6d7bceaf07db3965e03ffd44863491",
+        sha256 = "f4957d4f63a79f44666599afca278301a457a8cce83b77aa6a43fcb584c74d5f",
     },
 }
