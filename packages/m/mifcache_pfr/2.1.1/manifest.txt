@@ -1,16 +1,16 @@
 {
     ["windows-x64-vc-45e5102591a649fda279e67eaf92482a"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/pfr_0/pfr-45e5102591a649fda279e67eaf92482a.7z",
         sha256 = "67b614861987c83417cc07e9088631f4e453a4686802520663f3a227b1fa8e92",
     },
     ["windows-x64-vc-5852f339501b4d989496547ea53996ac"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/pfr_0/pfr-45e5102591a649fda279e67eaf92482a.7z",
         sha256 = "67b614861987c83417cc07e9088631f4e453a4686802520663f3a227b1fa8e92",
     },
     ["windows-x64-vc-dd4a27faa68f40b08d3d1a5e2c133355"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/pfr_0/pfr-45e5102591a649fda279e67eaf92482a.7z",
         sha256 = "67b614861987c83417cc07e9088631f4e453a4686802520663f3a227b1fa8e92",
     },
