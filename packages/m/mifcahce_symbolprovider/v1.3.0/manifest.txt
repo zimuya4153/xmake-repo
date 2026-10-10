@@ -1,4 +1,9 @@
 {
+    ["windows-x64-vc14.51.36231-8ef9d781a7854895b90a561f7f9be0ea"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_symbolprovider_0/mifcahce_symbolprovider-v1.3.0-windows-x64-14.51.36231-8ef9d781a7854895b90a561f7f9be0ea.7z",
+        sha256 = "23ea4e494f15c0bcbdffca7755edbf243d65246735a40a01c8ddd9455f884c34",
+    },
     ["windows-x64-vc14.51.36231-9731305ba7704f5982e5b034fbd5e46c"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_symbolprovider_0/mifcahce_symbolprovider-v1.3.0-windows-x64-14.51.36231-9731305ba7704f5982e5b034fbd5e46c.7z",

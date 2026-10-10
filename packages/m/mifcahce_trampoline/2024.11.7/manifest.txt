@@ -1,4 +1,9 @@
 {
+    ["windows-x64-vc14.51.36231-552c1d2061e44233a497ba064002bba0"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_trampoline_0/mifcahce_trampoline-2024.11.7-windows-x64-14.51.36231-552c1d2061e44233a497ba064002bba0.7z",
+        sha256 = "6bd8d259a6b69559ec40dfa23b1e55aed32ed0a6bbf710f17ea3aa8540897a6e",
+    },
     ["windows-x64-vc14.51.36231-ffbe8ea734a749ecb026f1d6e5160632"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_trampoline_0/mifcahce_trampoline-2024.11.7-windows-x64-14.51.36231-ffbe8ea734a749ecb026f1d6e5160632.7z",

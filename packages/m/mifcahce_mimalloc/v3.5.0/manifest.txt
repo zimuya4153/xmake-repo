@@ -1,4 +1,9 @@
 {
+    ["windows-x64-vc14.51.36231-1dbbc847966349438c4f66166623a12b"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_mimalloc_0/mifcahce_mimalloc-v3.5.0-windows-x64-14.51.36231-1dbbc847966349438c4f66166623a12b.7z",
+        sha256 = "a4e7f1bf6ae6c61fe26a71bdd2315fa252652322ee29abab83365c3c592c5e88",
+    },
     ["windows-x64-vc14.51.36231-721190f8fea544feb05fd065afa31ffb"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_mimalloc_0/mifcahce_mimalloc-v3.5.0-windows-x64-14.51.36231-721190f8fea544feb05fd065afa31ffb.7z",

@@ -1,4 +1,9 @@
 {
+    ["windows-x64-vc14.51.36231-57206051c21c41009d4a5306cebc56d2"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_demangler_0/mifcahce_demangler-v17.0.7-windows-x64-14.51.36231-57206051c21c41009d4a5306cebc56d2.7z",
+        sha256 = "1990c54b905ce3d5e1dbb2e8635f40ebdb6904b5fb09deedb1f3530e8d491498",
+    },
     ["windows-x64-vc14.51.36231-7f9e4d586bbc41e1921315e1c4dbb684"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_demangler_0/mifcahce_demangler-v17.0.7-windows-x64-14.51.36231-7f9e4d586bbc41e1921315e1c4dbb684.7z",
