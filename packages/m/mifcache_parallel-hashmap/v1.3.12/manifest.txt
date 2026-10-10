@@ -2,6 +2,6 @@
     ["windows-x64-vc-47b4dd3f84f34e9d98b4cde1eedee54d"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/parallel-hashmap_0/parallel-hashmap-47b4dd3f84f34e9d98b4cde1eedee54d.7z",
-        sha256 = "479578f609f14fc2104b26116dbf2de3309c99c6d1a3310781ef44dc82199e10",
+        sha256 = "8437ed7178f235fd56ea115b8f316fb19c1e85d857e0bbdfa0ce07ec1e4b36f8",
     },
 }

@@ -2,6 +2,6 @@
     ["windows-x64-vc-e3515434506a445792c1c83600bcf899"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/debug_assert_0/debug_assert-e3515434506a445792c1c83600bcf899.7z",
-        sha256 = "873b0f6d910fac467616e6b7305704b9eecac94dba04de1ab223141c134d79ae",
+        sha256 = "a9ba90111ce63cd663292917772d4ccd692a5097a8c8f168cec41f390e1a0240",
     },
 }

@@ -2,6 +2,6 @@
     ["windows-x64-vc-6c550fbfc1bb49fbbed872829f6090b0"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/pcg_cpp_0/pcg_cpp-6c550fbfc1bb49fbbed872829f6090b0.7z",
-        sha256 = "0559400b9ae7043c72e6b640773f930e7f6a7e51520e3a95de37a0f58e18d9c2",
+        sha256 = "5204b0501252bb1458e498a37d27d5e215815103f330612605f725af17a327ce",
     },
 }

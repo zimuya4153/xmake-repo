@@ -2,6 +2,6 @@
     ["windows-x64-vc-4b33a9a5c8154bd58b7d4007150f50b7"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/type_safe_0/type_safe-4b33a9a5c8154bd58b7d4007150f50b7.7z",
-        sha256 = "6f07756b6bdb574c6ca3cf1c12f64a96f08435b6e0fcef32f1864d471cdc45cb",
+        sha256 = "5a43a74156a60fbc3f5c8e97bfbfde3909da1abe1963b452a82be8a6f6ce99d6",
     },
 }
