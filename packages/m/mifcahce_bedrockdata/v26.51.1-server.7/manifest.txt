@@ -7,6 +7,6 @@
     ["windows-x64-vc14.51.36231-e6d9a5276de04940b2093d16f2a562c9"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_bedrockdata_0/mifcahce_bedrockdata-v26.51.1-server.7-windows-x64-14.51.36231-e6d9a5276de04940b2093d16f2a562c9.7z",
-        sha256 = "023a126f9dbf549d80d60f82a975268caae511aff232688addb478e52b1f7e1b",
+        sha256 = "024af3976279d4f9eb0d001b6b341328075bb0d30323a4941977de924990f808",
     },
 }

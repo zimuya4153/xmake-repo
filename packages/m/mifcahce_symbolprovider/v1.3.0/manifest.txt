@@ -2,7 +2,7 @@
     ["windows-x64-vc14.51.36231-8ef9d781a7854895b90a561f7f9be0ea"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_symbolprovider_0/mifcahce_symbolprovider-v1.3.0-windows-x64-14.51.36231-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "7d14a2b4a0070bec886f6f8b35a49224976f18ffd0a8a917aa9693c4fc2937b2",
+        sha256 = "5f029a4567a0a7b2380f55e992fcaadc89934483d2f6fcd13763c34bb1cedf39",
     },
     ["windows-x64-vc14.51.36231-9731305ba7704f5982e5b034fbd5e46c"] = {
         toolset = "14.51.36231",

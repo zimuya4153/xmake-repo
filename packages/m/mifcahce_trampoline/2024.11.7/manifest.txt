@@ -2,7 +2,7 @@
     ["windows-x64-vc14.51.36231-552c1d2061e44233a497ba064002bba0"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_trampoline_0/mifcahce_trampoline-2024.11.7-windows-x64-14.51.36231-552c1d2061e44233a497ba064002bba0.7z",
-        sha256 = "47f24aba6354b1c1814d6466d06a8d2b01cee8ad6c4a849b84be5df9b0d78e53",
+        sha256 = "42ab0b9e093fe45a5e459909b6cf91e38e7148597115a5ccec9f10a9e1a5b9a7",
     },
     ["windows-x64-vc14.51.36231-ffbe8ea734a749ecb026f1d6e5160632"] = {
         toolset = "14.51.36231",
