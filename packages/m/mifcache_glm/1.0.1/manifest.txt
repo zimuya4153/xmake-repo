@@ -2,6 +2,6 @@
     ["windows-x64-vc-18615f0387cd4e2ab2e9ea9965afc784"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/glm_0/glm-18615f0387cd4e2ab2e9ea9965afc784.7z",
-        sha256 = "5cad7be6862fe431cd9248c4ab00511ce79087552a95ee74970fb47e06d5954e",
+        sha256 = "55e11ca2ffce4ad26a3a58bd67b70d059a5eb3426e37cd7c96cd9f54a1db7e5c",
     },
 }

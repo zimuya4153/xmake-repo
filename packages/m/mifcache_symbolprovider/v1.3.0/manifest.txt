@@ -2,6 +2,6 @@
     ["windows-x64-vc-8ef9d781a7854895b90a561f7f9be0ea"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "b7a2bd87ad09be28a63ff9174c3c872305274ae6365f3b80b7cc6c10d5ddc0c0",
+        sha256 = "59d2089d35d8323fc6f747d842639f2ed3de0625e2c3f0c28e3fb07ddb6c028b",
     },
 }

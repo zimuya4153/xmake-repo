@@ -2,6 +2,6 @@
     ["windows-x64-vc-ee1902dd7cff4195a287949f80dbce70"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/fmt_0/fmt-ee1902dd7cff4195a287949f80dbce70.7z",
-        sha256 = "31d94279a0af6c704a76139575bbaae5f05352efd087c044c651f4c1356a9b99",
+        sha256 = "21b7ca44af57b4251f3b4a808a03819b42379ba9523e76310a610f789cc0c440",
     },
 }
