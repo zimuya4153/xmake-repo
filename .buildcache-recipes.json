@@ -1,0 +1,3061 @@
+{
+  "generated_at": "a40735f8e7a2bfdd7e733baec5632a4b359802bc",
+  "prefix": "mifcahce_",
+  "sources": {
+    "levimc-repo": "ae18fe6f009cffc7e2f12cacbeb5bf65fc68b94b",
+    "xmake-repo": "e0700eda6732f5ac0395fb08159b0d8390cf8392"
+  },
+  "packages": {
+    "bdslibrary": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\b\\bdslibrary",
+    "bedrockdata": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\b\\bedrockdata",
+    "concurrentqueue": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\c\\concurrentqueue",
+    "cpr": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\c\\cpr",
+    "ctre": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\c\\ctre",
+    "demangler": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\d\\demangler",
+    "entt": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\e\\entt",
+    "expected-lite": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\e\\expected-lite",
+    "fmt": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\f\\fmt",
+    "glm": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\g\\glm",
+    "gsl": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\g\\gsl",
+    "imgui": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\i\\imgui",
+    "leveldb": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\l\\leveldb",
+    "levilamina": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\l\\levilamina",
+    "libhat": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\l\\libhat",
+    "magic_enum": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\m\\magic_enum",
+    "mimalloc": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\m\\mimalloc",
+    "nlohmann_json": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\n\\nlohmann_json",
+    "parallel-hashmap": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\p\\parallel-hashmap",
+    "pcg_cpp": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\p\\pcg_cpp",
+    "pfr": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\p\\pfr",
+    "preloader": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\p\\preloader",
+    "rapidjson": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\r\\rapidjson",
+    "stb": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\s\\stb",
+    "symbolprovider": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\s\\symbolprovider",
+    "trampoline": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\t\\trampoline",
+    "type_safe": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\t\\type_safe"
+  },
+  "versions_with_extras": {
+    "26_51_6.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_51_5.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_51_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_51_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_51_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_51_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_6.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_5.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_40_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_32_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.1"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_32_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.1"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_20_7.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_20_6.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_20_5.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_20_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_20_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_20_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_14.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_13.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_12.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_11.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_10.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_9.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_8.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_7.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_6.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_5.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "26_10_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_9.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_8.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_7.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_6.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_5.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_9_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_8_0-rc_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_8_0-rc_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.7"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_7.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.6"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_6.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.6"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_5.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.6"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.6"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_7_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_6_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_6_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_5_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_5_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_5_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.5"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_4_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_4_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_4_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_4_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_4_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_3_4.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_3_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_3_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_3_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_3_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_2_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_2_0-rc_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.14.1"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_2_0-rc_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.13.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_2_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_1_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_1_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_1_0-rc_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_1_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_0_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.10.5"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_0_0-rc_3.lua": [
+      {
+        "name": "cpr",
+        "version": "1.10.5"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_0_0-rc_2.lua": [
+      {
+        "name": "cpr",
+        "version": "1.10.5"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_0_0-rc_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.10.5"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_0_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.10.5"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "0_13_5.lua": [
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.4.16"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.2"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.9.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.1.0"
+      }
+    ],
+    "0_13_4.lua": [
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.4.16"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.2"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.9.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.1.0"
+      }
+    ],
+    "0_13_3.lua": [
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.4.16"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.2"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.6.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.1.0"
+      }
+    ],
+    "0_13_2.lua": [
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.4.16"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.2"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.6.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.1.0"
+      }
+    ],
+    "0_13_1.lua": [
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.2"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.6.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.1.0"
+      }
+    ],
+    "0_13_0.lua": [
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.2"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.6.3"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.1.0"
+      }
+    ],
+    "0_12_4.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_12_3.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_12_2.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_12_1.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_12_0.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_11_1.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_11_0.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": "~1.6.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_10_5.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_10_4.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_10_2.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_10_1.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_10_0.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_9_5.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_9_4.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_9_3.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_9_2.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_9_1.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_9_0.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_8_4.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "0_8_3.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "old.lua": [
+      {
+        "name": "demangler",
+        "version": ""
+      },
+      {
+        "name": "mimalloc",
+        "version": ""
+      },
+      {
+        "name": "preloader",
+        "version": ""
+      },
+      {
+        "name": "symbolprovider",
+        "version": "~1"
+      }
+    ],
+    "main.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v3.5.0"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.16.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.3.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ]
+  }
+}
