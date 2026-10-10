@@ -2,16 +2,16 @@
     ["windows-x64-vc-67fb6d2fcc0f422baa190ca4e8e208d4"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/bedrockdata_0/bedrockdata-c0ff48dfd06a4b6bb28f59bb9ae43fd0.7z",
-        sha256 = "a2853119044b383ef54f97a97d4bb57aeb0ec9c88586a6c859d33b74b49f50c0",
+        sha256 = "386e9ebb2a03196a82efa75d6905769650134b2c99ad7e1d3d9d4bafe423cbc5",
     },
     ["windows-x64-vc-82327fca281b4fdeba02406fa2478264"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/bedrockdata_0/bedrockdata-c0ff48dfd06a4b6bb28f59bb9ae43fd0.7z",
-        sha256 = "a2853119044b383ef54f97a97d4bb57aeb0ec9c88586a6c859d33b74b49f50c0",
+        sha256 = "386e9ebb2a03196a82efa75d6905769650134b2c99ad7e1d3d9d4bafe423cbc5",
     },
     ["windows-x64-vc-c0ff48dfd06a4b6bb28f59bb9ae43fd0"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/bedrockdata_0/bedrockdata-c0ff48dfd06a4b6bb28f59bb9ae43fd0.7z",
-        sha256 = "a2853119044b383ef54f97a97d4bb57aeb0ec9c88586a6c859d33b74b49f50c0",
+        sha256 = "386e9ebb2a03196a82efa75d6905769650134b2c99ad7e1d3d9d4bafe423cbc5",
     },
 }

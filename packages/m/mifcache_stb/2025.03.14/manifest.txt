@@ -2,6 +2,6 @@
     ["windows-x64-vc-5add428b704648039c039d4d74bed865"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/stb_0/stb-5add428b704648039c039d4d74bed865.7z",
-        sha256 = "a251001d56fd22716d229facde5e0be05ba54a01d71612432f7b334d29829472",
+        sha256 = "d758854545f19cf3cee462590c06dd9d56ec9906103670473b5c36b4fa966c56",
     },
 }
