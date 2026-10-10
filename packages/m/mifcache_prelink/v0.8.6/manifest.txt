@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-2af432b8e9844196a88c103051e332ec"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/prelink_0/prelink-2af432b8e9844196a88c103051e332ec.7z",
+        sha256 = "f33f0e6f2b9eb4968887215f494b66a07df4307e7a7fe808e45042dbb73761dc",
+    },
+}

@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-2532d000dc9d47cbb618c80ba0e6d806"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/leveldb_0/leveldb-2532d000dc9d47cbb618c80ba0e6d806.7z",
+        sha256 = "3ec89fbcfe4910f4a0c9f0d301d534f392ffb9993afafe400528ace24c006775",
+    },
+}

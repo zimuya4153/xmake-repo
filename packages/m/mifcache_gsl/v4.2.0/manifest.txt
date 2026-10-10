@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-cdcbe579518f475dbbe3954d5b394a71"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/gsl_0/gsl-cdcbe579518f475dbbe3954d5b394a71.7z",
+        sha256 = "1529a1a76e0d903ca259516409b09bd20d89e4e286fd84e062630fd715cdae7f",
+    },
+}

@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-b3244272357b4994abb43dc0aa939d28"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/snappy_0/snappy-b3244272357b4994abb43dc0aa939d28.7z",
+        sha256 = "338eb491f76dd6ce37406fd810ed1d0b4bd8ec8631a93bec8e800cc185ae9f56",
+    },
+}

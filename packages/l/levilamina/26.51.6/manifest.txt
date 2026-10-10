@@ -1,0 +1,117 @@
+{
+    ["windows-x64-vc-03e2990032db4ea08102d17ff8a57da7"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/magic_enum_0/magic_enum-03e2990032db4ea08102d17ff8a57da7.7z",
+        sha256 = "4b5fb28113e4b17dd8d97909e4b94a1a3b3c6d3e6a92e6ff682d37adba84478c",
+    },
+    ["windows-x64-vc-0cd923cdfb6a4256954a994422b17de9"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/concurrentqueue_0/concurrentqueue-0cd923cdfb6a4256954a994422b17de9.7z",
+        sha256 = "05febb8639accf2c48547c70bea60e87e056787b79d717dc4b185c2d106bd647",
+    },
+    ["windows-x64-vc-0d58f676872d486790799bfc6f016197"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/entt_0/entt-0d58f676872d486790799bfc6f016197.7z",
+        sha256 = "19f0b6e4a073aa1d04dd0afc6685e07f5b008363b1866c544f75cd4595cacc9d",
+    },
+    ["windows-x64-vc-18615f0387cd4e2ab2e9ea9965afc784"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/glm_0/glm-18615f0387cd4e2ab2e9ea9965afc784.7z",
+        sha256 = "5cad7be6862fe431cd9248c4ab00511ce79087552a95ee74970fb47e06d5954e",
+    },
+    ["windows-x64-vc-2532d000dc9d47cbb618c80ba0e6d806"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/leveldb_0/leveldb-2532d000dc9d47cbb618c80ba0e6d806.7z",
+        sha256 = "3ec89fbcfe4910f4a0c9f0d301d534f392ffb9993afafe400528ace24c006775",
+    },
+    ["windows-x64-vc-2af432b8e9844196a88c103051e332ec"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/prelink_0/prelink-2af432b8e9844196a88c103051e332ec.7z",
+        sha256 = "f33f0e6f2b9eb4968887215f494b66a07df4307e7a7fe808e45042dbb73761dc",
+    },
+    ["windows-x64-vc-36ca3aab48a04473a0b2d34e01875b34"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/expected-lite_0/expected-lite-36ca3aab48a04473a0b2d34e01875b34.7z",
+        sha256 = "676521b54cab3f21782a8a2fe6bdc60cdcff7e190a2416fe8036aaff4f7a8618",
+    },
+    ["windows-x64-vc-429ea80073cf4bb68537057b0ee0497b"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-429ea80073cf4bb68537057b0ee0497b.7z",
+        sha256 = "817719463c3047f635950a75ea4e52a0807b363a0963361e2aa60191b449bf2c",
+    },
+    ["windows-x64-vc-45e5102591a649fda279e67eaf92482a"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/pfr_0/pfr-45e5102591a649fda279e67eaf92482a.7z",
+        sha256 = "647d9493788b5d083f4d15893968bf48e1cd1fa3bd6dd8ec0f2c4bb8d4d79d2c",
+    },
+    ["windows-x64-vc-47b4dd3f84f34e9d98b4cde1eedee54d"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/parallel-hashmap_0/parallel-hashmap-47b4dd3f84f34e9d98b4cde1eedee54d.7z",
+        sha256 = "f270a57faeff7aad203c6bd2e1840bf8f00daa01cb6bca04216baedf07167e1b",
+    },
+    ["windows-x64-vc-4b33a9a5c8154bd58b7d4007150f50b7"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/type_safe_0/type_safe-4b33a9a5c8154bd58b7d4007150f50b7.7z",
+        sha256 = "ca636fd05c9953fb130d60b4f5266996386b3d5b591dc03503fea9e2d12bca8e",
+    },
+    ["windows-x64-vc-5add428b704648039c039d4d74bed865"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/stb_0/stb-5add428b704648039c039d4d74bed865.7z",
+        sha256 = "6542b4e54ab273758162b3de7288924d0356e8ca0bdaa8d0c4b7efd3ab425786",
+    },
+    ["windows-x64-vc-5aec2755925a45d9974d95d2cb7038b1"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/rapidjson_0/rapidjson-5aec2755925a45d9974d95d2cb7038b1.7z",
+        sha256 = "1d9cfa6199792e82bb09346a7d7ac0053d332c803e0ddc1722df349292181197",
+    },
+    ["windows-x64-vc-6c550fbfc1bb49fbbed872829f6090b0"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/pcg_cpp_0/pcg_cpp-6c550fbfc1bb49fbbed872829f6090b0.7z",
+        sha256 = "ca841d81ac31b22ee845aff6b59f0ac0d2e46fc4bbe4b1f096153fcd5be9b325",
+    },
+    ["windows-x64-vc-8ef9d781a7854895b90a561f7f9be0ea"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
+        sha256 = "b7a2bd87ad09be28a63ff9174c3c872305274ae6365f3b80b7cc6c10d5ddc0c0",
+    },
+    ["windows-x64-vc-906b0696836741eda5b5749d54146a8c"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-906b0696836741eda5b5749d54146a8c.7z",
+        sha256 = "803041541206f6e93420ea9518deb5c3381c59ed0a25a858e14bfe435ea77a30",
+    },
+    ["windows-x64-vc-ab8414047c424750bdc9d7a0ff7afdde"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/nlohmann_json_0/nlohmann_json-ab8414047c424750bdc9d7a0ff7afdde.7z",
+        sha256 = "affac924d680d49edb45710070e4ad260661d378ff0ce0955504996199fbab1b",
+    },
+    ["windows-x64-vc-b3244272357b4994abb43dc0aa939d28"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/snappy_0/snappy-b3244272357b4994abb43dc0aa939d28.7z",
+        sha256 = "338eb491f76dd6ce37406fd810ed1d0b4bd8ec8631a93bec8e800cc185ae9f56",
+    },
+    ["windows-x64-vc-c0ff48dfd06a4b6bb28f59bb9ae43fd0"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bedrockdata_0/bedrockdata-c0ff48dfd06a4b6bb28f59bb9ae43fd0.7z",
+        sha256 = "36f2ad460e078ac2d3c5887134213dde6385e984193ac104448a5bb35711adf8",
+    },
+    ["windows-x64-vc-cdcbe579518f475dbbe3954d5b394a71"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/gsl_0/gsl-cdcbe579518f475dbbe3954d5b394a71.7z",
+        sha256 = "1529a1a76e0d903ca259516409b09bd20d89e4e286fd84e062630fd715cdae7f",
+    },
+    ["windows-x64-vc-e3515434506a445792c1c83600bcf899"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/debug_assert_0/debug_assert-e3515434506a445792c1c83600bcf899.7z",
+        sha256 = "8599d1461355e24dc51f34feebcab7bc420af6fe0fc71790c383d5c773cd1182",
+    },
+    ["windows-x64-vc-e6d9a5276de04940b2093d16f2a562c9"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bedrockdata_0/bedrockdata-e6d9a5276de04940b2093d16f2a562c9.7z",
+        sha256 = "8f4c0b16d0a631076a5be208cb408a3e409cd98589d437855515959fe596c486",
+    },
+    ["windows-x64-vc-ee1902dd7cff4195a287949f80dbce70"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/fmt_0/fmt-ee1902dd7cff4195a287949f80dbce70.7z",
+        sha256 = "31d94279a0af6c704a76139575bbaae5f05352efd087c044c651f4c1356a9b99",
+    },
+}

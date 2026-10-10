@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-45e5102591a649fda279e67eaf92482a"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/pfr_0/pfr-45e5102591a649fda279e67eaf92482a.7z",
+        sha256 = "647d9493788b5d083f4d15893968bf48e1cd1fa3bd6dd8ec0f2c4bb8d4d79d2c",
+    },
+}
