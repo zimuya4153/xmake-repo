@@ -2,16 +2,16 @@
     ["windows-x64-vc-a5be866e5c894f39b8cc9d37aa1f5774"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/snappy_0/snappy-b3244272357b4994abb43dc0aa939d28.7z",
-        sha256 = "5933cda888584932a39fe495146e56d6defe48410372f0d02d1fa03e5602780f",
+        sha256 = "585252e1f89700617c644cc880159e2e2c7e240170d872bdbaeb2e8cff7b8705",
     },
     ["windows-x64-vc-b3244272357b4994abb43dc0aa939d28"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/snappy_0/snappy-b3244272357b4994abb43dc0aa939d28.7z",
-        sha256 = "5933cda888584932a39fe495146e56d6defe48410372f0d02d1fa03e5602780f",
+        sha256 = "585252e1f89700617c644cc880159e2e2c7e240170d872bdbaeb2e8cff7b8705",
     },
     ["windows-x64-vc-bdeb174513c34de5a36994eac93f7031"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/snappy_0/snappy-b3244272357b4994abb43dc0aa939d28.7z",
-        sha256 = "5933cda888584932a39fe495146e56d6defe48410372f0d02d1fa03e5602780f",
+        sha256 = "585252e1f89700617c644cc880159e2e2c7e240170d872bdbaeb2e8cff7b8705",
     },
 }
