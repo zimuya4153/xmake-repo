@@ -1,17 +1,17 @@
 {
     ["windows-x64-vc-8ef9d781a7854895b90a561f7f9be0ea"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "683803d99492996328674d89d182df1220ca57d65473777432e6a4b86a8d7a77",
+        sha256 = "282d85ca4f5ac3ea6f2c49faf1405002e8eef3db36e506bae4eec403e617a243",
     },
     ["windows-x64-vc-9731305ba7704f5982e5b034fbd5e46c"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "683803d99492996328674d89d182df1220ca57d65473777432e6a4b86a8d7a77",
+        sha256 = "282d85ca4f5ac3ea6f2c49faf1405002e8eef3db36e506bae4eec403e617a243",
     },
     ["windows-x64-vc-ebc9be7a4187452c8d94bfab703d73c3"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "683803d99492996328674d89d182df1220ca57d65473777432e6a4b86a8d7a77",
+        sha256 = "282d85ca4f5ac3ea6f2c49faf1405002e8eef3db36e506bae4eec403e617a243",
     },
 }
