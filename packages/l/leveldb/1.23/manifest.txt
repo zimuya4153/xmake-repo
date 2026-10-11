@@ -2,16 +2,16 @@
     ["windows-x64-vc-2532d000dc9d47cbb618c80ba0e6d806"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/leveldb_0/leveldb-2532d000dc9d47cbb618c80ba0e6d806.7z",
-        sha256 = "42688282de5051e7db8c3393ec7232b5d8f557687636256b176dfa7d76d0996b",
+        sha256 = "cda222f463a2effb3c241dc6f3ea2dae4aee31c93d94de56e624d8aa83d3f7cb",
     },
     ["windows-x64-vc-47e59e56afbe44f79ec7388e60e8ab6e"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/leveldb_0/leveldb-2532d000dc9d47cbb618c80ba0e6d806.7z",
-        sha256 = "42688282de5051e7db8c3393ec7232b5d8f557687636256b176dfa7d76d0996b",
+        sha256 = "cda222f463a2effb3c241dc6f3ea2dae4aee31c93d94de56e624d8aa83d3f7cb",
     },
     ["windows-x64-vc-562d97fa461941deaa4ae4ca06492415"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/leveldb_0/leveldb-2532d000dc9d47cbb618c80ba0e6d806.7z",
-        sha256 = "42688282de5051e7db8c3393ec7232b5d8f557687636256b176dfa7d76d0996b",
+        sha256 = "cda222f463a2effb3c241dc6f3ea2dae4aee31c93d94de56e624d8aa83d3f7cb",
     },
 }

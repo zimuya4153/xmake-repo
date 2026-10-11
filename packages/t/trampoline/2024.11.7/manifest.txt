@@ -2,16 +2,16 @@
     ["windows-x64-vc-552c1d2061e44233a497ba064002bba0"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/trampoline_0/trampoline-552c1d2061e44233a497ba064002bba0.7z",
-        sha256 = "0bfe2bb65776127350ab3a9366ca298022bb76f3e51cdbae374df15fa9abbe8c",
+        sha256 = "9fd958c0f9455c43d1a6252d1c78c12faddcbee36a478bf3db43fc2c3393b8d9",
     },
     ["windows-x64-vc-fc06abcc1c22427eb159b24012ce051b"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/trampoline_0/trampoline-552c1d2061e44233a497ba064002bba0.7z",
-        sha256 = "0bfe2bb65776127350ab3a9366ca298022bb76f3e51cdbae374df15fa9abbe8c",
+        sha256 = "9fd958c0f9455c43d1a6252d1c78c12faddcbee36a478bf3db43fc2c3393b8d9",
     },
     ["windows-x64-vc-ffbe8ea734a749ecb026f1d6e5160632"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/trampoline_0/trampoline-552c1d2061e44233a497ba064002bba0.7z",
-        sha256 = "0bfe2bb65776127350ab3a9366ca298022bb76f3e51cdbae374df15fa9abbe8c",
+        sha256 = "9fd958c0f9455c43d1a6252d1c78c12faddcbee36a478bf3db43fc2c3393b8d9",
     },
 }

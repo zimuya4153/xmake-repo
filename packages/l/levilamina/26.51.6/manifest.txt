@@ -2,31 +2,31 @@
     ["windows-x64-vc-2e4a52d381a148e8b930ab151a809ef8"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-906b0696836741eda5b5749d54146a8c.7z",
-        sha256 = "acd54e74954b9da7dab9e7fd4af6ab0d70d937f790995ec7f635bf3987bf96e0",
+        sha256 = "a5e4cd4a03654e797532b7b6b44f755cdc643f1ae9366a42dd10db03685dd67d",
     },
     ["windows-x64-vc-429ea80073cf4bb68537057b0ee0497b"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-429ea80073cf4bb68537057b0ee0497b.7z",
-        sha256 = "bd1dec0f541239084cfbc1a678b74fea73f931863b72db3c91b70856bf789cb6",
+        sha256 = "7518eb8f9cbd42ce77412bbc580be3dc24e07f510bf8a946fccb2cdc5de476df",
     },
     ["windows-x64-vc-56c49cc2325448bb942eb9ae76a540a5"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-429ea80073cf4bb68537057b0ee0497b.7z",
-        sha256 = "bd1dec0f541239084cfbc1a678b74fea73f931863b72db3c91b70856bf789cb6",
+        sha256 = "7518eb8f9cbd42ce77412bbc580be3dc24e07f510bf8a946fccb2cdc5de476df",
     },
     ["windows-x64-vc-906b0696836741eda5b5749d54146a8c"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-906b0696836741eda5b5749d54146a8c.7z",
-        sha256 = "acd54e74954b9da7dab9e7fd4af6ab0d70d937f790995ec7f635bf3987bf96e0",
+        sha256 = "a5e4cd4a03654e797532b7b6b44f755cdc643f1ae9366a42dd10db03685dd67d",
     },
     ["windows-x64-vc-e969892aa96647d289659a0c31d52170"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-429ea80073cf4bb68537057b0ee0497b.7z",
-        sha256 = "bd1dec0f541239084cfbc1a678b74fea73f931863b72db3c91b70856bf789cb6",
+        sha256 = "7518eb8f9cbd42ce77412bbc580be3dc24e07f510bf8a946fccb2cdc5de476df",
     },
     ["windows-x64-vc-efd81a783f3c430cb13c3b58f0faf363"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-906b0696836741eda5b5749d54146a8c.7z",
-        sha256 = "acd54e74954b9da7dab9e7fd4af6ab0d70d937f790995ec7f635bf3987bf96e0",
+        sha256 = "a5e4cd4a03654e797532b7b6b44f755cdc643f1ae9366a42dd10db03685dd67d",
     },
 }

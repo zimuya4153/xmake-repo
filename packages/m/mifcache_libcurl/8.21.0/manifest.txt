@@ -2,16 +2,16 @@
     ["windows-x64-vc-0de27c26a1a74ad692b8b1fc35c5c59d"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b.7z",
-        sha256 = "ca95dd2e6abe7b61cdceeba0da8aaa4380547a24b2ea7c27ac0375ab21e125c9",
+        sha256 = "b334c23e37ec7dd4abd2ddac82627fcd89403f09cc1fd1b467294fdb8b96488d",
     },
     ["windows-x64-vc-917c16ddbf2942d1ae0e099942006c5b"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b.7z",
-        sha256 = "ca95dd2e6abe7b61cdceeba0da8aaa4380547a24b2ea7c27ac0375ab21e125c9",
+        sha256 = "b334c23e37ec7dd4abd2ddac82627fcd89403f09cc1fd1b467294fdb8b96488d",
     },
     ["windows-x64-vc-bd3caa5a72e84c5bb235d19eec2a450e"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b.7z",
-        sha256 = "ca95dd2e6abe7b61cdceeba0da8aaa4380547a24b2ea7c27ac0375ab21e125c9",
+        sha256 = "b334c23e37ec7dd4abd2ddac82627fcd89403f09cc1fd1b467294fdb8b96488d",
     },
 }
