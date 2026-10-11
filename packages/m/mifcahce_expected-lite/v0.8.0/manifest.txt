@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc14.51.36231-36ca3aab48a04473a0b2d34e01875b34"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_expected-lite_0/mifcahce_expected-lite-v0.8.0-windows-x64-14.51.36231-36ca3aab48a04473a0b2d34e01875b34.7z",
-        sha256 = "23612f2dbf46499cf079230e8ceedc07a40235d1bd6ba9626d453da369188576",
-    },
-}

@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc14.51.36231-47b4dd3f84f34e9d98b4cde1eedee54d"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_parallel-hashmap_0/mifcahce_parallel-hashmap-v1.3.12-windows-x64-14.51.36231-47b4dd3f84f34e9d98b4cde1eedee54d.7z",
-        sha256 = "9dab73ed63455eba62720723c041739af03cb9ca1d8f0c5e894cf05eae46eecf",
-    },
-}

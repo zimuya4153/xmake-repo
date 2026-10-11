@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc14.51.36231-4b33a9a5c8154bd58b7d4007150f50b7"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_type_safe_0/mifcahce_type_safe-v0.2.4-windows-x64-14.51.36231-4b33a9a5c8154bd58b7d4007150f50b7.7z",
-        sha256 = "ba9e55b478bdbcded8240182e7a1ad97edd72cf7643013d012c5ee320c8a60b4",
-    },
-}

@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc14.51.36231-03e2990032db4ea08102d17ff8a57da7"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_magic_enum_0/mifcahce_magic_enum-v0.9.7-windows-x64-14.51.36231-03e2990032db4ea08102d17ff8a57da7.7z",
-        sha256 = "9e9be2831226f121cbbc614a8837351c7d5340f3d9b558e63e6b697067ac7ee4",
-    },
-}

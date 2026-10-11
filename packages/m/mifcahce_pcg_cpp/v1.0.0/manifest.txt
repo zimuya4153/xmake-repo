@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc14.51.36231-6c550fbfc1bb49fbbed872829f6090b0"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_pcg_cpp_0/mifcahce_pcg_cpp-v1.0.0-windows-x64-14.51.36231-6c550fbfc1bb49fbbed872829f6090b0.7z",
-        sha256 = "35a9b5cc37b6c738aff96903bfca833fc17bb48fcff220e65c6653a96cbf9756",
-    },
-}

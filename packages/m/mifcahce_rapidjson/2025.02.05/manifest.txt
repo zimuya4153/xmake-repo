@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc14.51.36231-5aec2755925a45d9974d95d2cb7038b1"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mifcahce_rapidjson_0/mifcahce_rapidjson-2025.02.05-windows-x64-14.51.36231-5aec2755925a45d9974d95d2cb7038b1.7z",
-        sha256 = "38674905e9df768e5ff9ff19fae9cc24b98a450b8c2a940105258cc98c16cb87",
-    },
-}
