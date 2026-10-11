@@ -1,7 +1,17 @@
 {
-    ["windows-x64-vc-354f59ffe01146af8f95691d1df61dab"] = {
+    ["windows-x64-vc-0fc913b3de8c4d88ad32b9136e005236"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/ctre_0/ctre-354f59ffe01146af8f95691d1df61dab.7z",
-        sha256 = "fe895de1a91754bd9e5ce5d883b63789fd85e5360dc5b6beca3be70a9f3a9485",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/ctre_0/ctre-38526533895541a6a7943676aa1a6a13.7z",
+        sha256 = "6e2da48dc6af765cf2862cfd0a076c82eaac18a4253e9df732e2e41b172ccd5c",
+    },
+    ["windows-x64-vc-38526533895541a6a7943676aa1a6a13"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/ctre_0/ctre-38526533895541a6a7943676aa1a6a13.7z",
+        sha256 = "6e2da48dc6af765cf2862cfd0a076c82eaac18a4253e9df732e2e41b172ccd5c",
+    },
+    ["windows-x64-vc-ff3a09d33ce14995bcf044e5a143a675"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/ctre_0/ctre-38526533895541a6a7943676aa1a6a13.7z",
+        sha256 = "6e2da48dc6af765cf2862cfd0a076c82eaac18a4253e9df732e2e41b172ccd5c",
     },
 }

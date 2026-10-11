@@ -1,7 +1,17 @@
 {
-    ["windows-x64-vc-826582eb66794908a16a49dbdd33bec4"] = {
+    ["windows-x64-vc-0c8461176b234e93872564945505f419"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/nlohmann_json_0/nlohmann_json-826582eb66794908a16a49dbdd33bec4.7z",
-        sha256 = "0fff746ed8f02d66ab0f8554f7d4fcff28f06434e939a3fd89d023d9c8301f7a",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/nlohmann_json_0/nlohmann_json-433384a664ca49d3bfe0fae4c1496750.7z",
+        sha256 = "57267f303d5b9063e345f3fcb939ca48ca4154fda89483d6be1ca6afeb808035",
+    },
+    ["windows-x64-vc-433384a664ca49d3bfe0fae4c1496750"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/nlohmann_json_0/nlohmann_json-433384a664ca49d3bfe0fae4c1496750.7z",
+        sha256 = "57267f303d5b9063e345f3fcb939ca48ca4154fda89483d6be1ca6afeb808035",
+    },
+    ["windows-x64-vc-64c63701bc7840deab3dafd56780c8a8"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/nlohmann_json_0/nlohmann_json-433384a664ca49d3bfe0fae4c1496750.7z",
+        sha256 = "57267f303d5b9063e345f3fcb939ca48ca4154fda89483d6be1ca6afeb808035",
     },
 }

@@ -1,7 +1,17 @@
 {
-    ["windows-x64-vc-cc4533ab1d88423b98d8fbee7dce0557"] = {
+    ["windows-x64-vc-3dab028e0a584d6783983e13efa1d53a"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/gsl_0/gsl-cc4533ab1d88423b98d8fbee7dce0557.7z",
-        sha256 = "ff26b463d31906d556a2392788965f5f0821b7eb790f701f3c2fbc1b45ce0549",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/gsl_0/gsl-d827b849ba7b4981a0dd19e7b3d83179.7z",
+        sha256 = "7dea6f60a59342b7b1a046ba9b2153a54cc6497e50a4cf3b2f872d4d4f42c714",
+    },
+    ["windows-x64-vc-d827b849ba7b4981a0dd19e7b3d83179"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/gsl_0/gsl-d827b849ba7b4981a0dd19e7b3d83179.7z",
+        sha256 = "7dea6f60a59342b7b1a046ba9b2153a54cc6497e50a4cf3b2f872d4d4f42c714",
+    },
+    ["windows-x64-vc-f0428a2ff4144959ae9cd2f54eea9bc7"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/gsl_0/gsl-d827b849ba7b4981a0dd19e7b3d83179.7z",
+        sha256 = "7dea6f60a59342b7b1a046ba9b2153a54cc6497e50a4cf3b2f872d4d4f42c714",
     },
 }

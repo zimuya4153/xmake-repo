@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-7c8ab41f90044a9eb48f6c4528d36f5f"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/entt_0/entt-7c8ab41f90044a9eb48f6c4528d36f5f.7z",
+        sha256 = "79c21ba235688bfcfac408e4f61f4ee3f499c58c6a80a2f026614f90019fcdb2",
+    },
+}
