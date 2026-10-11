@@ -16,10 +16,10 @@ local deps_common = {
     "concurrentqueue v1.0.4"
 }
 local deps_server = {
-    "bedrockdata v1.21.132-server.8"
+    "mifcache_bedrockdata v1.21.132-server.8"
 }
 local deps_client = {
-    "bedrockdata v1.21.132-client.9"
+    "mifcache_bedrockdata v1.21.132-client.9"
 }
 
 function load(package)

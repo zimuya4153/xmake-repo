@@ -11,7 +11,7 @@ local deps = {
     "pcg_cpp v1.0.0",
     "pfr 2.1.1",
     "mifcache_symbolprovider v1.1.0",
-    "bdslibrary 1.21.3-r01"
+    "mifcache_bdslibrary 1.21.3-r01"
 }
 
 function load(package)

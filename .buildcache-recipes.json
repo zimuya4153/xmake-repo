@@ -1,5 +1,5 @@
 {
-  "generated_at": "9d2a02d6a961cb5162c327d5ec1672ceedfeba01",
+  "generated_at": "16b6a90765a566e12206586f28b8a6cc5d5417f3",
   "prefix": "mifcache_",
   "sources": {
     "levimc-repo": "ae18fe6f009cffc7e2f12cacbeb5bf65fc68b94b",
@@ -7,6 +7,8 @@
     "xmake-repo": "e0700eda6732f5ac0395fb08159b0d8390cf8392"
   },
   "packages": {
+    "bdslibrary": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\b\\bdslibrary",
+    "bedrockdata": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\b\\bedrockdata",
     "cpr": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\c\\cpr",
     "demangler": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\d\\demangler",
     "fmt": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\f\\fmt",

@@ -13,15 +13,15 @@ local deps = {
     "entt 3.13.2"
 }
 local version_deps = {
-    ["0.8.x"] = { "bdslibrary 1.20.61-r01" },
-    ["0.9.x"] = { "bdslibrary 1.20.62-r02" },
-    ["0.10.x"] = { "bdslibrary 1.20.72-r01" },
-    ["0.11.x"] = { "bdslibrary 1.20.72-r01" },
-    ["0.12.0"] = { "bdslibrary 1.20.80-r05" },
-    ["0.12.1"] = { "bdslibrary 1.20.80-r05" },
-    ["0.12.2"] = { "bdslibrary 1.20.80-r05" },
-    ["0.12.3"] = { "bdslibrary 1.20.81-r01" },
-    ["0.12.4"] = { "bdslibrary 1.20.81-r01" }
+    ["0.8.x"] = { "mifcache_bdslibrary 1.20.61-r01" },
+    ["0.9.x"] = { "mifcache_bdslibrary 1.20.62-r02" },
+    ["0.10.x"] = { "mifcache_bdslibrary 1.20.72-r01" },
+    ["0.11.x"] = { "mifcache_bdslibrary 1.20.72-r01" },
+    ["0.12.0"] = { "mifcache_bdslibrary 1.20.80-r05" },
+    ["0.12.1"] = { "mifcache_bdslibrary 1.20.80-r05" },
+    ["0.12.2"] = { "mifcache_bdslibrary 1.20.80-r05" },
+    ["0.12.3"] = { "mifcache_bdslibrary 1.20.81-r01" },
+    ["0.12.4"] = { "mifcache_bdslibrary 1.20.81-r01" }
 }
 function load(package)
     import("core.base.semver")
