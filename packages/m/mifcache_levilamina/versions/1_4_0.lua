@@ -1,26 +1,26 @@
 local deps_common = {
-    "mifcache_entt v3.14.0",
-    "mifcache_expected-lite v0.8.0",
+    "entt v3.14.0",
+    "expected-lite v0.8.0",
     "mifcache_fmt 11.2.0",
-    "mifcache_gsl v4.0.0",
-    "mifcache_glm 1.0.1",
+    "gsl v4.0.0",
+    "glm 1.0.1",
     "mifcache_leveldb 1.23",
-    "mifcache_magic_enum v0.9.7",
-    "mifcache_nlohmann_json v3.11.3",
-    "mifcache_rapidjson v1.1.0",
-    "mifcache_type_safe v0.2.4",
-    "mifcache_pcg_cpp v1.0.0",
-    "mifcache_pfr 2.1.1",
+    "magic_enum v0.9.7",
+    "nlohmann_json v3.11.3",
+    "rapidjson v1.1.0",
+    "type_safe v0.2.4",
+    "pcg_cpp v1.0.0",
+    "pfr 2.1.1",
     "mifcache_symbolprovider v1.2.0",
-    "mifcache_parallel-hashmap v1.3.12",
-    "mifcache_concurrentqueue v1.0.4"
+    "parallel-hashmap v1.3.12",
+    "concurrentqueue v1.0.4"
 }
 local deps_server = {
-    "mifcache_bedrockdata v1.21.93-server.3"
+    "bedrockdata v1.21.93-server.3"
 }
 local deps_client = {
-    "mifcache_bedrockdata 1.21.0.3-client",
-    "mifcache_imgui[dx11=y,dx12=y] v1.91.0-docking"
+    "bedrockdata 1.21.0-r3-client",
+    "imgui[dx11=y,dx12=y] v1.91.0-docking"
 }
 
 function load(package)

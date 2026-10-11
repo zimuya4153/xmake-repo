@@ -1,5 +1,5 @@
 {
-  "generated_at": "ace6696953c937f69f6a88fc33de1553cdd01a25",
+  "generated_at": "9d2a02d6a961cb5162c327d5ec1672ceedfeba01",
   "prefix": "mifcache_",
   "sources": {
     "levimc-repo": "ae18fe6f009cffc7e2f12cacbeb5bf65fc68b94b",
@@ -7,33 +7,16 @@
     "xmake-repo": "e0700eda6732f5ac0395fb08159b0d8390cf8392"
   },
   "packages": {
-    "bdslibrary": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\b\\bdslibrary",
-    "bedrockdata": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\b\\bedrockdata",
-    "concurrentqueue": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\c\\concurrentqueue",
     "cpr": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\c\\cpr",
-    "ctre": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\c\\ctre",
     "demangler": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\d\\demangler",
-    "entt": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\e\\entt",
-    "expected-lite": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\e\\expected-lite",
     "fmt": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\f\\fmt",
-    "glm": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\g\\glm",
-    "gsl": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\g\\gsl",
-    "imgui": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\i\\imgui",
     "leveldb": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\l\\leveldb",
     "levilamina": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\l\\levilamina",
     "libhat": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\l\\libhat",
-    "magic_enum": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\m\\magic_enum",
     "mimalloc": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\m\\mimalloc",
-    "nlohmann_json": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\n\\nlohmann_json",
-    "parallel-hashmap": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\p\\parallel-hashmap",
-    "pcg_cpp": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\p\\pcg_cpp",
-    "pfr": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\p\\pfr",
     "preloader": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\p\\preloader",
-    "rapidjson": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\r\\rapidjson",
-    "stb": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\s\\stb",
     "symbolprovider": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\s\\symbolprovider",
-    "trampoline": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\t\\trampoline",
-    "type_safe": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\xmake-repo@e0700eda6732\\packages\\t\\type_safe"
+    "trampoline": "C:\\Users\\Administrator\\Documents\\Github\\zimuya4153\\BuildCache\\.vendor\\levimc-repo@ae18fe6f009c\\packages\\t\\trampoline"
   },
   "versions_with_extras": {
     "26_51_6.lua": [
@@ -2166,6 +2149,36 @@
         "version": "2024.11.7"
       }
     ],
+    "1_2_0.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "0.4.0"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.15.2"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
     "1_2_0-rc_2.lua": [
       {
         "name": "cpr",
@@ -2216,36 +2229,6 @@
       {
         "name": "preloader",
         "version": "v1.13.0"
-      },
-      {
-        "name": "symbolprovider",
-        "version": "v1.2.0"
-      },
-      {
-        "name": "trampoline",
-        "version": "2024.11.7"
-      }
-    ],
-    "1_2_0.lua": [
-      {
-        "name": "cpr",
-        "version": "1.11.1"
-      },
-      {
-        "name": "demangler",
-        "version": "v17.0.7"
-      },
-      {
-        "name": "libhat",
-        "version": "0.4.0"
-      },
-      {
-        "name": "mimalloc",
-        "version": "v2.1.7"
-      },
-      {
-        "name": "preloader",
-        "version": "v1.15.2"
       },
       {
         "name": "symbolprovider",
@@ -2316,36 +2299,6 @@
         "version": "2024.11.7"
       }
     ],
-    "1_1_0-rc_1.lua": [
-      {
-        "name": "cpr",
-        "version": "1.11.1"
-      },
-      {
-        "name": "demangler",
-        "version": "v17.0.7"
-      },
-      {
-        "name": "libhat",
-        "version": "2024.9.22"
-      },
-      {
-        "name": "mimalloc",
-        "version": "v2.1.7"
-      },
-      {
-        "name": "preloader",
-        "version": "v1.12.0"
-      },
-      {
-        "name": "symbolprovider",
-        "version": "v1.2.0"
-      },
-      {
-        "name": "trampoline",
-        "version": "2024.11.7"
-      }
-    ],
     "1_1_0.lua": [
       {
         "name": "cpr",
@@ -2376,7 +2329,67 @@
         "version": "2024.11.7"
       }
     ],
+    "1_1_0-rc_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.11.1"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
     "1_0_1.lua": [
+      {
+        "name": "cpr",
+        "version": "1.10.5"
+      },
+      {
+        "name": "demangler",
+        "version": "v17.0.7"
+      },
+      {
+        "name": "libhat",
+        "version": "2024.9.22"
+      },
+      {
+        "name": "mimalloc",
+        "version": "v2.1.7"
+      },
+      {
+        "name": "preloader",
+        "version": "v1.12.0"
+      },
+      {
+        "name": "symbolprovider",
+        "version": "v1.2.0"
+      },
+      {
+        "name": "trampoline",
+        "version": "2024.11.7"
+      }
+    ],
+    "1_0_0.lua": [
       {
         "name": "cpr",
         "version": "1.10.5"
@@ -2467,36 +2480,6 @@
       }
     ],
     "1_0_0-rc_1.lua": [
-      {
-        "name": "cpr",
-        "version": "1.10.5"
-      },
-      {
-        "name": "demangler",
-        "version": "v17.0.7"
-      },
-      {
-        "name": "libhat",
-        "version": "2024.9.22"
-      },
-      {
-        "name": "mimalloc",
-        "version": "v2.1.7"
-      },
-      {
-        "name": "preloader",
-        "version": "v1.12.0"
-      },
-      {
-        "name": "symbolprovider",
-        "version": "v1.2.0"
-      },
-      {
-        "name": "trampoline",
-        "version": "2024.11.7"
-      }
-    ],
-    "1_0_0.lua": [
       {
         "name": "cpr",
         "version": "1.10.5"

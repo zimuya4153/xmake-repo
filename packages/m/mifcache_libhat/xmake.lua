@@ -15,6 +15,18 @@ package("mifcache_libhat")
     add_deps("cmake")
 
     on_install(function (package)
+
+        -- BuildCache: era includes
+        do
+            local file = "include/libhat/Process.hpp"
+            if os.isfile(file) then
+                local data = io.readfile(file)
+                if data and not data:find("#include <string>", 1, true) then
+                    io.writefile(file, "#include <string>\n" .. data)
+                    print("added <string> to include/libhat/Process.hpp (it uses std::string)")
+                end
+            end
+        end
         local configs = {}
         table.insert(configs, "-DCMAKE_BUILD_TYPE=" .. (package:debug() and "Debug" or "Release"))
         if package:config("shared") then
