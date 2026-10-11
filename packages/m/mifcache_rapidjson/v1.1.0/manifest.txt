@@ -2,6 +2,6 @@
     ["windows-x64-vc-0f134bb496e5466f91a92e689450b200"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/rapidjson_0/rapidjson-0f134bb496e5466f91a92e689450b200.7z",
-        sha256 = "322ebc20540b11c333acb338083f5b03c62fe8ed6602a9124ac905d232896d14",
+        sha256 = "d51bc8f88e31c0bc34873e75006b669eeedd96766f0540b09f7cd48ba17b712f",
     },
 }

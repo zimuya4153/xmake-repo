@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-354f59ffe01146af8f95691d1df61dab"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/ctre_0/ctre-354f59ffe01146af8f95691d1df61dab.7z",
+        sha256 = "fe895de1a91754bd9e5ce5d883b63789fd85e5360dc5b6beca3be70a9f3a9485",
+    },
+}
