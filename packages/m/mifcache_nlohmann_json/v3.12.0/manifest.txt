@@ -1,7 +1,0 @@
-{
-    ["windows-x64-vc-ab8414047c424750bdc9d7a0ff7afdde"] = {
-        toolset = "14.51.36231",
-        urls = "https://github.com/zimuya4153/BuildCache/releases/download/nlohmann_json_0/nlohmann_json-ab8414047c424750bdc9d7a0ff7afdde.7z",
-        sha256 = "1a00a7473ec820eb6330477edc93d0bb68e7407a982d9e611c753d8dec65a0c8",
-    },
-}
