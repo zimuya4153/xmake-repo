@@ -2,16 +2,16 @@
     ["windows-x64-vc-5bc196abc3ce43048a872ea3801c8b3d"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a.7z",
-        sha256 = "43140189af5fcc1c550550c80175237c61cf9dcd491467a57c1e2b0c022ace21",
+        sha256 = "c1330de11525818bfd2d5da3e70216753a374a3445d5c7c88ce71afe56ed8a83",
     },
     ["windows-x64-vc-b08e7160ae9441f09e3d0b1ddcb2deea"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a.7z",
-        sha256 = "43140189af5fcc1c550550c80175237c61cf9dcd491467a57c1e2b0c022ace21",
+        sha256 = "c1330de11525818bfd2d5da3e70216753a374a3445d5c7c88ce71afe56ed8a83",
     },
     ["windows-x64-vc-c50fc038e66740e58945ea5327f5be6a"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a.7z",
-        sha256 = "43140189af5fcc1c550550c80175237c61cf9dcd491467a57c1e2b0c022ace21",
+        sha256 = "c1330de11525818bfd2d5da3e70216753a374a3445d5c7c88ce71afe56ed8a83",
     },
 }

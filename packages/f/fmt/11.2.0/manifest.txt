@@ -1,17 +1,17 @@
 {
     ["windows-x64-vc-b7405442b25445eab2a3dbd4c6478c78"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/fmt_0/fmt-ee1902dd7cff4195a287949f80dbce70.7z",
-        sha256 = "68195fe875c11fe7ff85112a8cd692c30b5dddc57fa2b011bd72d0146e6d2f0a",
+        sha256 = "5c1d96c970685c77ce1154bc3802408691ef7d613e9a18e454822ba027614577",
     },
     ["windows-x64-vc-df51e1a2e20b4137a9912f841398f0d3"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/fmt_0/fmt-ee1902dd7cff4195a287949f80dbce70.7z",
-        sha256 = "68195fe875c11fe7ff85112a8cd692c30b5dddc57fa2b011bd72d0146e6d2f0a",
+        sha256 = "5c1d96c970685c77ce1154bc3802408691ef7d613e9a18e454822ba027614577",
     },
     ["windows-x64-vc-ee1902dd7cff4195a287949f80dbce70"] = {
-        toolset = "14.51.36231",
+        toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/fmt_0/fmt-ee1902dd7cff4195a287949f80dbce70.7z",
-        sha256 = "68195fe875c11fe7ff85112a8cd692c30b5dddc57fa2b011bd72d0146e6d2f0a",
+        sha256 = "5c1d96c970685c77ce1154bc3802408691ef7d613e9a18e454822ba027614577",
     },
 }
