@@ -1,16 +1,16 @@
 {
     ["windows-x64-vc-0605db7b334a4133bdea05de941f5f33"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/demangler_0/demangler-57206051c21c41009d4a5306cebc56d2.7z",
         sha256 = "bd5f73f8232edd0da2a4c6d7b5d43532846d78d7d114a7c2405daf848c25ee78",
     },
     ["windows-x64-vc-57206051c21c41009d4a5306cebc56d2"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/demangler_0/demangler-57206051c21c41009d4a5306cebc56d2.7z",
         sha256 = "bd5f73f8232edd0da2a4c6d7b5d43532846d78d7d114a7c2405daf848c25ee78",
     },
     ["windows-x64-vc-7f9e4d586bbc41e1921315e1c4dbb684"] = {
-        toolset = "14.44.35207",
+        toolset = "14.51.36231",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/demangler_0/demangler-57206051c21c41009d4a5306cebc56d2.7z",
         sha256 = "bd5f73f8232edd0da2a4c6d7b5d43532846d78d7d114a7c2405daf848c25ee78",
     },
