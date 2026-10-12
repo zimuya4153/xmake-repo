@@ -1,0 +1,12 @@
+{
+    ["windows-x64-vc-5b1333ddb7dd41c78fab1bdd09837fe3"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bsci_0/bsci-8e296c6054d844028da0fd2580f63e37.7z",
+        sha256 = "86aadf8d35447ae6390944eda3c371c9142f99f3b4b1de82b210f81ea2765034",
+    },
+    ["windows-x64-vc-8e296c6054d844028da0fd2580f63e37"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bsci_0/bsci-8e296c6054d844028da0fd2580f63e37.7z",
+        sha256 = "86aadf8d35447ae6390944eda3c371c9142f99f3b4b1de82b210f81ea2765034",
+    },
+}
