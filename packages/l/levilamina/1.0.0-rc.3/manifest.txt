@@ -1,0 +1,12 @@
+{
+    ["windows-x64-vc-5bc4db9786c349108eb3c9dcaf2cc461"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-5bc4db9786c349108eb3c9dcaf2cc461.7z",
+        sha256 = "01a5660a4f6a482528c392317425d3a747914b5233373ea031993bc09fd2dfd0",
+    },
+    ["windows-x64-vc-c362c04e9d06416782047c9319d53c6e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/levilamina_0/levilamina-5bc4db9786c349108eb3c9dcaf2cc461.7z",
+        sha256 = "01a5660a4f6a482528c392317425d3a747914b5233373ea031993bc09fd2dfd0",
+    },
+}

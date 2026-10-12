@@ -2,16 +2,31 @@
     ["windows-x64-vc-0b80567aac994078bc55c3b4f67b040e"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/cpr_0/cpr-0b80567aac994078bc55c3b4f67b040e.7z",
-        sha256 = "231b6507e98dbcf65179f7998c98a7bb4321e63af4b1a39aa8eb1901c7b0da62",
+        sha256 = "f2b3480fe8645b27ef13c2b330dd60f73fcdef0b32913482bd47f2dd55b1aa5c",
     },
     ["windows-x64-vc-158c09735a09468baf01bd4d42fee708"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/cpr_0/cpr-0b80567aac994078bc55c3b4f67b040e.7z",
-        sha256 = "231b6507e98dbcf65179f7998c98a7bb4321e63af4b1a39aa8eb1901c7b0da62",
+        sha256 = "f2b3480fe8645b27ef13c2b330dd60f73fcdef0b32913482bd47f2dd55b1aa5c",
+    },
+    ["windows-x64-vc-1a7a8c6d100a41a7b098c0e66fae50ea"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/cpr_0/cpr-1a7a8c6d100a41a7b098c0e66fae50ea.7z",
+        sha256 = "3e65ee5d89f0c4ddeab8348333150cbe06d7309c22b1f6dff3a09463dfbdd4e4",
+    },
+    ["windows-x64-vc-63f2ca252bba4b96a6c172fdcab2faa1"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/cpr_0/cpr-1a7a8c6d100a41a7b098c0e66fae50ea.7z",
+        sha256 = "3e65ee5d89f0c4ddeab8348333150cbe06d7309c22b1f6dff3a09463dfbdd4e4",
+    },
+    ["windows-x64-vc-8bd04c71e12b4916b2743e1e508206dd"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/cpr_0/cpr-1a7a8c6d100a41a7b098c0e66fae50ea.7z",
+        sha256 = "3e65ee5d89f0c4ddeab8348333150cbe06d7309c22b1f6dff3a09463dfbdd4e4",
     },
     ["windows-x64-vc-e85d543dacd44424aca1ae0629aa22dd"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/zimuya4153/BuildCache/releases/download/cpr_0/cpr-0b80567aac994078bc55c3b4f67b040e.7z",
-        sha256 = "231b6507e98dbcf65179f7998c98a7bb4321e63af4b1a39aa8eb1901c7b0da62",
+        sha256 = "f2b3480fe8645b27ef13c2b330dd60f73fcdef0b32913482bd47f2dd55b1aa5c",
     },
 }
