@@ -1,0 +1,12 @@
+{
+    ["windows-x64-vc-399e382c0fe142a58d9cbffd522c58fd"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/more-dimensions_0/more-dimensions-399e382c0fe142a58d9cbffd522c58fd.7z",
+        sha256 = "816108051dad138803fbf408969f64345b8e2e4b0e474a0708801235e41d10a2",
+    },
+    ["windows-x64-vc-5d87320cbf984c4ba8f5257e8f6d0209"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/more-dimensions_0/more-dimensions-399e382c0fe142a58d9cbffd522c58fd.7z",
+        sha256 = "816108051dad138803fbf408969f64345b8e2e4b0e474a0708801235e41d10a2",
+    },
+}
