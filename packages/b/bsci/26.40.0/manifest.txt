@@ -1,0 +1,22 @@
+{
+    ["windows-x64-vc-598fcb3ecd0243919b66463ceb2c0366"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bsci_0/bsci-598fcb3ecd0243919b66463ceb2c0366.7z",
+        sha256 = "3013cda2db43e1cc0f25e037dae8eb673ba5f9522d9db18a1ca8f9fce6e89949",
+    },
+    ["windows-x64-vc-640a3a0d3bd44250b18e83ba6e52e48a"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bsci_0/bsci-fb98fad2051a42ddb8136b7efa612f19.7z",
+        sha256 = "5d81f000fa3b62e10b8dd27f698265d26f644a822d700894558bab5a47919b52",
+    },
+    ["windows-x64-vc-64ec98fb47bf4f66ac1f64d31ec036c3"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bsci_0/bsci-598fcb3ecd0243919b66463ceb2c0366.7z",
+        sha256 = "3013cda2db43e1cc0f25e037dae8eb673ba5f9522d9db18a1ca8f9fce6e89949",
+    },
+    ["windows-x64-vc-fb98fad2051a42ddb8136b7efa612f19"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bsci_0/bsci-fb98fad2051a42ddb8136b7efa612f19.7z",
+        sha256 = "5d81f000fa3b62e10b8dd27f698265d26f644a822d700894558bab5a47919b52",
+    },
+}
