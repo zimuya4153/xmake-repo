@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-5a867983a4004b08ba422a9c7832eb7a"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mimalloc_0/mimalloc-5a867983a4004b08ba422a9c7832eb7a.7z",
+        sha256 = "3a007b0e1821c7c05cdefcfdac8796ac1088294b747f576aa9bdb4d750818da7",
+    },
+    ["windows-x64-vc-b782ae1dd585437f9ce6328076ec109c"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mimalloc_0/mimalloc-5a867983a4004b08ba422a9c7832eb7a.7z",
+        sha256 = "3a007b0e1821c7c05cdefcfdac8796ac1088294b747f576aa9bdb4d750818da7",
+    },
+    ["windows-x64-vc-e172b6fd19bd4ca4965e7748943a678c"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/mimalloc_0/mimalloc-5a867983a4004b08ba422a9c7832eb7a.7z",
+        sha256 = "3a007b0e1821c7c05cdefcfdac8796ac1088294b747f576aa9bdb4d750818da7",
+    },
+}
