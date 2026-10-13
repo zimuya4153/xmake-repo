@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-4eee5c4d98db47a6a0617547bb167200"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/preloader_0/preloader-6f77595db28246d0ab64550f9eb03123.7z",
+        sha256 = "e0cfbc79ea7f3fe30e64b64ff4ab444fb02f963490e0a62a106d53a44e7abbb0",
+    },
+    ["windows-x64-vc-6f77595db28246d0ab64550f9eb03123"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/preloader_0/preloader-6f77595db28246d0ab64550f9eb03123.7z",
+        sha256 = "e0cfbc79ea7f3fe30e64b64ff4ab444fb02f963490e0a62a106d53a44e7abbb0",
+    },
+    ["windows-x64-vc-a457b1124f3d40998201d17d7267013f"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/preloader_0/preloader-6f77595db28246d0ab64550f9eb03123.7z",
+        sha256 = "e0cfbc79ea7f3fe30e64b64ff4ab444fb02f963490e0a62a106d53a44e7abbb0",
+    },
+}
