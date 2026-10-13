@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-0be3f22c7ed543fd822828dd4c8a6b6e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bdslibrary_0/bdslibrary-0be3f22c7ed543fd822828dd4c8a6b6e-vc1444.7z",
+        sha256 = "f3c9d6b64b560d5747dc6b1036c1e3daa21bd1632b1c88f028cc90c8d1ce7b51",
+    },
+    ["windows-x64-vc-525161c551f64153b89cf0e1adf7fb00"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bdslibrary_0/bdslibrary-0be3f22c7ed543fd822828dd4c8a6b6e-vc1444.7z",
+        sha256 = "f3c9d6b64b560d5747dc6b1036c1e3daa21bd1632b1c88f028cc90c8d1ce7b51",
+    },
+    ["windows-x64-vc-e136d0aa8ae1484c8d0e1c8bf3fddf9e"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/zimuya4153/BuildCache/releases/download/bdslibrary_0/bdslibrary-0be3f22c7ed543fd822828dd4c8a6b6e-vc1444.7z",
+        sha256 = "f3c9d6b64b560d5747dc6b1036c1e3daa21bd1632b1c88f028cc90c8d1ce7b51",
+    },
+}
